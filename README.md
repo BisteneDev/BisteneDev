@@ -3,8 +3,8 @@
 - 🔭 Trabalho como Técnico de TI 
 - 🌱 Estudando Python e Django
 - 💬 Gosto de tecnologia 
-- 📫 How to reach me: +55 (97)984323586
-- 😄 Pronouns: ele/dele
+- 📫 Como chegar até mim: +55 (97)984323586
+- 😄 Pronomes: ele/dele
 - 💻 Técnico de TI
 - 🖥️ Tecnólogo em Gestão Comercial
 -->
